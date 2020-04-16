@@ -54,3 +54,7 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 * Notas a mano:
     - [Clase 1](clase%201/Notas%20a%20mano/clase%201-notas.pdf)
     - [Markov](clase%201/Notas%20a%20mano/repaso%20markov.pdf)
+
+### Python
+
+* [Python](clase%201/Python/1.1-studen-mc.ipynb)
