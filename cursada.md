@@ -3,6 +3,23 @@ layout: default
 ---
 # Cursada
 
+## Clase 3 (Mié 15/Abr)
+
+### Videos
+
+* [Video 1: comentarios sobre Python](https://youtu.be/48xRnMVI0d8)
+* [Video 2: Bandits](https://youtu.be/a2gz0v6_is0)
+
+### Slides y notas
+
+* [Slides](clase3-RL/Aprendizaje%20Reforzado%20Clase%203-%20FIUBA.pdf)
+
+### Python
+
+* [Python](https://github.com/sebasped/pruebaRL/tree/master/clase3-RL/Python)
+
+---
+
 ## Clase 2 (Mié 08/Abr)
 
 ### Videos
@@ -33,4 +50,4 @@ layout: default
 
 ### Python
 
-* [Python prueba 2](https://github.com/sebasped/pruebaRL/tree/master/clase%201/Python)
+* [Python](https://github.com/sebasped/pruebaRL/tree/master/clase%201/Python)
