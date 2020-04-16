@@ -1,16 +1,10 @@
 ---
 items:
-  - nombre: Proceso
-    descripcion: Es un programa en ejecución, tiene su propio estado independiente del estado de cualquier otro programa incluidos los del sistema operativo. Va acompañado de recursos como archivos, memoria, etc. 
-  - nombre: Semáforo
+  - nombre: Markov chain
+    descripcion: bla bla
+  - nombre: Markov decision process
     descripcion: (completar)
-  - nombre: Monitor
-    descripcion: (completar)
-  - nombre: Deadlock
-    descripcion: los procesos están esperando un evento que nunca ocurrirá.
-  - nombre: Hilo o _thread_
-    descripcion: (completar)
-  - nombre: Sección crítica
+  - nombre: Value function
     descripcion: (completar)
 ---
 
