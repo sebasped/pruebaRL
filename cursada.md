@@ -58,3 +58,4 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 ### Python
 
 * [Python](clase%201/Python/1.1-studen-mc.ipynb)
+* [Python prueba 2](https://github.com/sebasped/pruebaRL/tree/master/clase%201/Python)
