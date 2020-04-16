@@ -51,4 +51,6 @@ Hoja de ruta para esta semana (es decir actividades y tareas):
 ### Slides y notas
 
 * [Slides](clase%201/Aprendizaje%20Reforzado%20Clase%201.pdf)
-* [Notas](clase%201/Notas%20a%20mano/)
+* Notas a mano:
+    - [Clase 1](clase%201/Notas%20a%20mano/clase%201-notas.pdf)
+    - [Markov](clase%201/Notas%20a%20mano/repaso%20markov.pdf)
