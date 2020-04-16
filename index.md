@@ -23,4 +23,4 @@ Si es la primera vez que entrás acá, probablemente quieras ir a la sección [c
 
 * Para intercambios más fluidos, vamos a utilizar este [grupo de slack](https://join.slack.com/t/apr-fiuba/shared_invite/zt-d42uk7ua-Q_ldxIDTHt_xpqUYBUvujQ)
 
-* También utilizaremos el [campus virtual](https://campus.fi.uba.ar/course/view.php?id=240), asi que te conviene revisarlo cada tanto.
+* También utilizaremos el [campus virtual](https://campus.fi.uba.ar/course/view.php?id=2408), asi que te conviene revisarlo cada tanto.

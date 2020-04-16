@@ -13,8 +13,8 @@ layout: default
 
 * [Slides](clase2-RL/Aprendizaje%20Reforzado%20Clase%202-%20FIUBA.pdf)
 
-
 ---
+
 ## Clase 1 (Mié 01/Abr)
 
 ### Videos
