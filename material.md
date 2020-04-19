@@ -9,7 +9,7 @@
 ## Libros, videos, bibliografía, cursos, etc.
 
 * [MLSS 2012: G. Lugosi - Session 1: Concentration Inequalities in Machine Learning (Part 1)](https://www.youtube.com/watch?v=SnNj6cMeDq0)
-* [Regret Analysis of Stochastic andNonstochastic Multi-armedBandit Problems, Bubeck y Cesa-Bianchi, 2012](http://sbubeck.com/SurveyBCB12.pdf)
+* [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems; Bubeck y Cesa-Bianchi, 2012](http://sbubeck.com/SurveyBCB12.pdf)
 * [Curso DL RL, de UCL y DeepMind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
     - [youtube playlist](https://www.youtube.com/playlist?reload=9&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Introduction to Multi-Armed Bandits](https://www.nowpublishers.com/article/Details/MAL-068)
