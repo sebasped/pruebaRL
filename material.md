@@ -8,10 +8,11 @@
 
 ## Libros, videos, bibliografía, cursos, etc.
 
+* [Curso DL RL, de UCL y DeepMind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [Introduction to Multi-Armed Bandits](https://www.nowpublishers.com/article/Details/MAL-068)
 * [An Introduction to Deep Reinforcement Learning](https://www.nowpublishers.com/article/Details/MAL-071)
 * [Curso Javier Kreiner Austral](https://github.com/javkrei/aprendizaje-reforzado-austral)
-* [Mastering the game of Go with deep neural networks and tree search. Goolgle.](https://research.google/pubs/pub44806/)
+* [Mastering the game of Go with deep neural networks and tree search. Google.](https://research.google/pubs/pub44806/)
 * [Construction of Stochastic Processes, Coupling and Regeneration; Pablo A. Ferrari, Antonio Galves](https://docs.ufpr.br/~lucambio/CE222/2S2011/oct2001.pdf)
 * Pierre Bremaud; Markov chains: Gibbs fields, Monte Carlo simulation, and queues.
 * [UCL Course on RL, David Silver](https://www.davidsilver.uk/teaching/)
