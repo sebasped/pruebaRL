@@ -22,6 +22,7 @@
 * [CS 285 at UC Berkeley, Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
 
-
+## Más generales
+* [Foundations and Trends® in Machine Learning](https://www.nowpublishers.com/MAL)
 
 
