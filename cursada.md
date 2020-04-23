@@ -7,8 +7,7 @@ layout: default
 
 ### Videos
 
-* [Video 1: comentarios sobre Python](https://youtu.be/48xRnMVI0d8)
-* [Video 2: Bandits](https://youtu.be/a2gz0v6_is0)
+[Videos](https://docs.google.com/spreadsheets/d/1DX-WrnMwbMAI43eBs92EuHEU-2sXnFxEWeG6lwdsl2Q/edit?usp=sharing)
 
 ### Slides y notas
 
@@ -24,7 +23,7 @@ layout: default
 
 ### Videos
 
-* [Video Google Meet en Vivo](https://drive.google.com/file/d/1so2BCvaSFAuhJEOqOSyz9IbygXXd-Hiz/view)
+[Videos](https://docs.google.com/spreadsheets/d/1DX-WrnMwbMAI43eBs92EuHEU-2sXnFxEWeG6lwdsl2Q/edit?usp=sharing)
 
 ### Slides y notas
 
@@ -36,10 +35,8 @@ layout: default
 
 ### Videos
 
-* [Video 1](https://youtu.be/QBnKk8kwSl4)
-* [Video 2](https://youtu.be/bmWCCAI21F4)
-* [Video 3](https://youtu.be/s2Yqq3Eg-jQ)
-* [Video 4](https://youtu.be/yVjt8qaYswI)
+[Videos](https://docs.google.com/spreadsheets/d/1DX-WrnMwbMAI43eBs92EuHEU-2sXnFxEWeG6lwdsl2Q/edit?usp=sharing)
+
 
 ### Slides y notas
 

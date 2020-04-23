@@ -1,5 +1,13 @@
 # Material
 
+## Ejercicios para entregrar
+
+[Ejercicios para entregrar](https://docs.google.com/presentation/d/1nI7lkhECIEwWXEYvRKnn1XypgG4rOmp2GMQCxTv4H_k/edit#slide=id.p)
+
+## Videos
+
+[Videos](https://docs.google.com/spreadsheets/d/1DX-WrnMwbMAI43eBs92EuHEU-2sXnFxEWeG6lwdsl2Q/edit?usp=sharing)
+
 ## Repositorio de github
 
 * [Clase 1](https://github.com/sebasped/pruebaRL/tree/master/clase%201/)
